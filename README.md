@@ -8,7 +8,7 @@
 
 ### Screenshot
 
-- <img src="" alt=""/>
+- <img src="https://i.imgur.com/Ti9WsXI.png" alt="modal-react"/>
 
 ### Tech-Stack
 
