@@ -4,6 +4,8 @@
 
 ### Functions
 
+- Modal
+
 ### Screenshot
 
 - <img src="" alt=""/>
@@ -13,21 +15,14 @@
 - React Hooks
 - styled-components
 - react-icons
-
-### API Used
-
-### Deploy
-
-- [Live Site](link)
-- [Live Server](link)
+- react-spring
 
 ### Plan Of Action
 
-### After this project
-
-I have improve my knowledge about
-I have understand about
-Next Steps:
+- Creating React App
+- Installing Dependencies
+- Creating Modal Button
+- Closing Modal on Outside Click
 
 ### Directory Structure
 
@@ -38,9 +33,12 @@ Next Steps:
 ├── README.md
 ├── public
 └── src
+    ├── components
+        ├── Modal.js
+        ├── Modal.elements.js
+        └── modal.jpg
     ├── App.js
-    ├── App.css
-    ├── index.css
+    ├── globalStyles.js
     └── index.js
 ```
 
